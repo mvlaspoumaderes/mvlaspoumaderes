@@ -2,6 +2,6 @@
 - 👀 I’m a DevOps Engineer 
 - 🌱 I’m currently learning AWS, Terraform & Packer
 - 📫 You can follow me in 
-      @ twitter https://twitter.com/vickasecas
-      @ Linkedin https://www.linkedin.com/in/mvlaspoumaderes/
+     - @ twitter https://twitter.com/vickasecas
+     - @ Linkedin https://www.linkedin.com/in/mvlaspoumaderes/
 
